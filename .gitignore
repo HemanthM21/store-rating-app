@@ -1,6 +1,6 @@
-node_modules/
+﻿node_modules/
 .env
-.DS_Store
+*.log
 build/
 dist/
-*.log
+.DS_Store
